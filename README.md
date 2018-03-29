@@ -13,3 +13,5 @@ Nesse tutorial vamos apresentar como customizar o Watson Text to Speech de modo 
 * Autor: Renato Leal
 * Medium: medium.com/@renatoleal
 * Linkedin: https://www.linkedin.com/in/renatodossantosleal/
+
+**Obs: você pode baixar o arquivo html daqui e abrir no chrome, com ele você poderá visualizar corretamente todos os outputs conseguidos e também ouvir como ficava o speech antes e depois**
